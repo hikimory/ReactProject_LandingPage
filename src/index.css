@@ -37,7 +37,7 @@ html {
 body {
   font-family: 'Poppins', sans-serif;
   background: var(--color-bg);
-  color: var(--color-light);
+  color: var(--color-white);
   line-height: 1.7;
   background-image: url(../src/assets/bg-texture.png);
 }
@@ -80,7 +80,7 @@ a {
 }
 
 a:hover {
-  color: var(--color-light);
+  color: var(--color-white);
 }
 
 .btn {
